@@ -1,8 +1,8 @@
 [submodule "Backend"]
-	path = Backend
-	url = https://github.com/INUGraduation/Backend.git
-    branch = develop
+    path = Backend
+    url = https://github.com/INUGraduation/Backend.git
+    branch = main
 [submodule "Frontend"]
-	path = Frontend
-	url = https://github.com/INUGraduation/frontend.git
-    branch = develop
+    path = Frontend
+    url = https://github.com/INUGraduation/frontend.git
+    branch = main
